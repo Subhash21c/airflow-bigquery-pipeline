@@ -11,7 +11,7 @@ PROJECT_ID   = "project-8adddde0-36db-4a98-805"       # ← replace this
 BUCKET_NAME  = "airflow-coingecko-raw"     # ← your bucket name
 DATASET_ID   = "crypto_data"
 TABLE_ID     = "coin_prices"
-COINS        = ["bitcoin", "ethereum", "solana"]
+COINS        = ["bitcoin", "ethereum", "solana", "cardano", "ripple"]
 # ────────────────────────────────────────────────────────
 
 
