@@ -75,7 +75,9 @@ docker compose up -d
 ## Screenshots
 
 ### Airflow DAG — successful run
-[Add your Airflow UI screenshot here]
+<img width="1828" height="742" alt="image" src="https://github.com/user-attachments/assets/f6c25625-8c74-4cd7-8b3d-568e7b0df5c8" />
+
 
 ### BigQuery — coin_prices table preview
-[Add your BigQuery preview screenshot here]
+<img width="1448" height="767" alt="image" src="https://github.com/user-attachments/assets/8a0c75d7-076a-47b4-a02a-b391253fab59" />
+
