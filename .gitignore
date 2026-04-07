@@ -1,0 +1,23 @@
+﻿# Google Cloud credentials
+gcp-key.json
+application_default_credentials.json
+
+# Environment files
+.env
+
+# gcloud directory
+.config/gcloud
+
+# Airflow logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Docker volumes
+pgdata/
+
+# VS Code
+.vscode/
